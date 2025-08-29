@@ -8,8 +8,6 @@ Focus areas: ratings distribution, decades, genres, and directors.
 - Data was **loaded directly from the web** using **Power BI’s Web connector** and cleaned in **Power Query**.  
 - No raw CSV/Excel is included in this repo to respect IMDB’s terms; instead, the source link and steps to recreate are provided.
 
-> **Snapshot note:** IMDB’s Top 250 can change over time. Include the date you extracted the data here:
-> - Snapshot date: **YYYY-MM-DD**
 
 ## Transformations (Power Query)
 - Parsed movie title, year, and rating from the web table
